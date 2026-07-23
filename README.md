@@ -102,6 +102,15 @@ Through this project, I learned how to:
 
 ---
 
+## 📂 Project Files
+
+- 📄 [Final SOC Investigation Report](report/SOC_Email_Threat_Investigation_Report.pdf)
+- 📖 [Investigation Methodology](docs/methodology.md)
+- 🛠️ [Tools Used](docs/tools-used.md)
+- 🎓 [Learning Outcomes](docs/learning-outcomes.md)
+
+---
+
 ## ⚠️ Disclaimer
 
 This repository contains my analysis and learning outcomes. Any proprietary or confidential training materials from the internship provider are not included.
