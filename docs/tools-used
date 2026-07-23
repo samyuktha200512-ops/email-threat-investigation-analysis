@@ -1,0 +1,10 @@
+# Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| MXToolbox | Verify SPF, DKIM, DMARC, DNS, and mail server configuration |
+| VirusTotal | Check URL reputation and identify malicious indicators |
+| urlscan.io | Analyze URLs and inspect webpage behavior |
+| AbuseIPDB | Verify IP reputation and identify malicious IP addresses |
+
+These tools were used to support the technical analysis wherever applicable during the investigation.
