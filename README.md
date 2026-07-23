@@ -118,10 +118,6 @@ This repository contains my analysis and learning outcomes. Any proprietary or c
 
 ## 👤 Author
 
-Samyuktha Saravanan
-
-Cybersecurity Enthusiast | SOC Analyst Aspirant
-
 **Samyuktha Saravanan**
 
 Cybersecurity Enthusiast | SOC Analyst Aspirant
